@@ -1,2 +1,5 @@
-_sites
-node_modules
+_site
+.sass-cache
+.jekyll-metadata
+jekyll-export.zip
+*~
