@@ -1,0 +1,3 @@
+[submodule "shamansim.github.io/bioinformaticusnipponensis/_plugins/instagram"]
+	path = shamansim.github.io/bioinformaticusnipponensis/_plugins/instagram
+	url = git://github.com/longkey1/jekyll-instagram-plugin.git
