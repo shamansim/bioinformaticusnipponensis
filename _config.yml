@@ -10,7 +10,7 @@ title: Your awesome title
 email: bioinformaticusnipponensis@besson-girard.fr
 description: > # this means to ignore newlines until "baseurl:"
   French bioinformatics student, intern at RIKEN in Yokohama.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bioinformaticusnipponensis" # the subpath of your site, e.g. /blog
 url: "http://simon.besson-girard.fr" # the base hostname & protocol for your site
 twitter_username: SimonBesson
 github_username:  shamansim
