@@ -33,15 +33,15 @@ author: "Simon Besson-Girard"
 title: "Bioinformaticus nipponensis"
 description: "French bioinformatics student, intern at RIKEN in Yokohama"
 keywords: "japan, lifestyle, photography, science"
-favicon: "/img/favicon.ico"
+favicon: "/img/cropped-Flag_of_Yokohama_Kanagawa.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/cropped-Flag_of_Yokohama_Kanagawa.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/P1060979.JPG"
 
 ##############################
 # Dynamic Text on the Header #
@@ -53,13 +53,14 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "French bioinformatics student"
-  - text: "Intern at RIKEN in Yokohama"
+  - text: "Intern at RIKEN-CLST in Yokohama"
   - text: "Visiting Japan"
+  - text: "Sharing my dailylife..."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/cropped-Flag_of_Yokohama_Kanagawa.png"
 
 ##############################
 # Color the browser elements #
@@ -86,22 +87,22 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 50
 
 paginate: 5
 
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "shamansim"
 
 syntax-highlight: True
 
@@ -110,22 +111,40 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/chinois.JPG"
+    date: "Samedi 13 février 2016"
+    description: "Visite du quartier chinois de Yokohama"
+  - image: "/img/timeline/aPied.JPG"
+    date: "Jeudi 11 février 2016"
+    description: "À pied, entre Shinkoyasu et Yokohama"
+  - image: "/img/timeline/nippori.JPG"
+    date: "Dimanche 7 février 2016"
+    description: "Sortie à Nippori"
+  - image: "/img/timeline/sakuragichou.JPG"
+    date: "Samedi 6 février 2016"
+    description: "Sortie à Sakuragichou"
+  - image: "/img/timeline/collegues.JPG"
+    date: "Vendredi 5 février 2016"
+    description: "Soirée avec les collègues"
+  - image: "/img/timeline/yokohama.JPG"
+    date: "Mardi 2 février 2016"
+    description: "Première sortie à Yokohama"
+  - image: "/img/timeline/premierJour.JPG"
+    date: "Lundi 1 février 2016"
+    description: "Premier jour de travail"
+  - image: "/img/timeline/sharehouse.JPG"
+    date: "Dimanche 31 janvier 2016"
+    description: "Arrivée dans ma sharehouse"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/planeScreen.JPG"
 
 ###########
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "bioinformaticusnipponensis@besson-girard.fr"
 
 ################
 # Author Blurb #
@@ -135,22 +154,20 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Simon Besson-Girard is a French bioinformatics student, currently in an internship at the RIKEN in the Yokohama Campus."
+author_blurb_image: "/img/cropped-Flag_of_Yokohama_Kanagawa.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+  - title: "instagram"
+    url: "https://www.instagram.com/shamansim/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/SimonBesson"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/shamansim"
   - title: "rss"
     url: "/feed.xml"
 
