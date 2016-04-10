@@ -111,6 +111,15 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/odaiba.JPG"
+    date: "Dimanche 27 mars 2016"
+    description: "Sortie à Odaiba"
+  - image: "/img/timeline/meiji.JPG"
+    date: "Samedi 26 mars 2016"
+    description: "Parc de Yoyogi, le sanctuaire Meiji et Harajuku"
+  - image: "/img/timeline/taimatsu.JPG"
+    date: "Vendredi 25 mars 2016"
+    description: "Shinki-sai Taimatsu-matsuri"
   - image: "/img/timeline/5lacs.JPG"
     date: "Samedi 19 mars 2016 - Lundi 21 mars 2016"
     description: "Excursion dans la région des 5 lacs et le Fuji-san"
