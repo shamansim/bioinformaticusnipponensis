@@ -36,7 +36,6 @@ Je fais 12h de vol.
 
 ![tracé du vol]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3347.JPG)
 
-(désolé la vidéo est penchée ça vient d'un snapchat) 
 
 Après avoir fait faire ma carte de résident, je me suis dirigé vers Yokohama où se trouve ma résidence partagée. C'est à environ 40min de l'aéroport de Haneda, lui-même au Sud de Tokyo.
 
@@ -60,15 +59,13 @@ Ensuite voici l'espace lavabo puis douche. Vous remarquerez peut-être qu'il y a
 
 ![la douche 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3360.JPG)
 
-L'installation à été plus "compliquée" que prévu car j'ai du m'acheter le jour même des draps et couverture. Un problème est que la porte fenêtre donnant sur le balcon n'est pas hyper isolée, il fait donc vite un peu frais dans la chambre... je me console en me disant que dans quelques mois ce sera très agréable.
+L'installation à été plus "compliquée" que prévu car j'ai dû m'acheter le jour même des draps et couverture. Un problème est que la porte fenêtre donnant sur le balcon n'est pas hyper isolée, il fait donc vite un peu frais dans la chambre... je me console en me disant que dans quelques mois ce sera très agréable.
 
 Voici donc ma chambre.
 
 ![ma chambre 1]({{ site.url }}/{{ site.baseurl }}/assets/P1010346.JPG)
 
 ![ma chambre 2]({{ site.url }}/{{ site.baseurl }}/assets/P1010347.JPG)
-
-(encore une fois désolé, c'est la dernière fois que c'est penché, promis)
 
 Je ne me suis pas couché trop tard car je travaillais le lendemain...
 
