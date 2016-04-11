@@ -14,7 +14,7 @@ Voici un rapide débriefing du voyage ; au début je n'ai pas trop de trucs à v
 
 J'ai pris le train pour Paris.
 
-![test](http://simon.besson-girard.fr/wp-content/uploads/2016/02/IMG_3342-300x225.jpg)
+![test](http://simon.besson-girard.fr/wp-content/uploads/2016/02/IMG_3342-300x225.jpg =300x)
 
 ![alternative text]({{site.url}}{{site.baseurl}}/assets/IMG_3342.JPG =100x)
 
