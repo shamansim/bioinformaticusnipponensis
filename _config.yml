@@ -212,7 +212,8 @@ social:
     url: "https://twitter.com/SimonBesson"
   - title: "github"
     url: "https://github.com/shamansim"
-
+  - title: "rss"
+    url: "/feed.xml"
 ############
 # 404 page #
 ############
