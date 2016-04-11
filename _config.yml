@@ -106,6 +106,8 @@ disqus-shortname: "shamansim"
 
 syntax-highlight: True
 
+excerpt_separator: <!--more-->
+
 ############
 # Timeline #
 ############
@@ -197,7 +199,7 @@ email: "bioinformaticusnipponensis@besson-girard.fr"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Simon Besson-Girard is a French bioinformatics student, currently in an internship at the RIKEN in the Yokohama Campus."
-author_blurb_image: "/img/cropped-Flag_of_Yokohama_Kanagawa.png"
+author_blurb_image: "/img/blurb.png"
 
 ##################
 # Social Buttons #
@@ -210,8 +212,6 @@ social:
     url: "https://twitter.com/SimonBesson"
   - title: "github"
     url: "https://github.com/shamansim"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
