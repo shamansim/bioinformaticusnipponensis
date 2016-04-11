@@ -213,7 +213,8 @@ social:
   - title: "github"
     url: "https://github.com/shamansim"
   - title: "rss"
-    url: "/feed.xml"
+    url: "https://shamansim.github.io/bioinformaticusnipponensis/feed.xml"
+
 ############
 # 404 page #
 ############
