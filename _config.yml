@@ -113,6 +113,21 @@ excerpt_separator: <!--more-->
 ############
 
 events:
+  - image: "/img/timeline/hamarikyu.JPG"
+    date: "Dimanche 10 avril 2016"
+    description: "Shimbashi et Hamariyku gardens"
+  - image: "/img/timeline/shinjukuGyoen.JPG"
+    date: "Samedi 9 avril 2016"
+    description: "Parc de Shinjuku Gyoen et la rivière à Nakameguro"
+  - image: "/img/timeline/asakusa.JPG"
+    date: "Mardi 5 avril 2016"
+    description: "Parc de Ueno, parc de Sumida et temple d'Asakusa"
+  - image: "/img/timeline/kanamara.JPG"
+    date: "Dimanche 3 avril 2016"
+    description: "Kanamara-matsuri"
+  - image: "/img/timeline/imperial.JPG"
+    date: "Samedi 2 avril 2016"
+    description: "Palais impérial et sanctuaire Yasukuni"
   - image: "/img/timeline/odaiba.JPG"
     date: "Dimanche 27 mars 2016"
     description: "Sortie à Odaiba"
