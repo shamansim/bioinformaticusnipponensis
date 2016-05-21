@@ -14,27 +14,27 @@ Voici un rapide débriefing du voyage ; au début je n'ai pas trop de trucs à v
 
 J'ai pris le train pour Paris.
 
-![dans le TGV]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3342.JPG)
+![dans le TGV]({{ site.url }}{{ site.baseurl }}/assets/IMG_3342.JPG)
 
 Comme j'étais arrivé super tôt j'ai mangé un sandwich à 10€ chez le Paul de l'aéroport tout en lisant.
 
-![magazine the goof life special Japon]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3346.JPG)
+![magazine the goof life special Japon]({{ site.url }}{{ site.baseurl }}/assets/IMG_3346.JPG)
 
 Ensuite j'ai enfin pu passer le portail de sécurité et entrer dans le terminal. 
 
-![terminal]({{ site.url }}/{{ site.baseurl }}/assets/P1010345.JPG)
+![terminal]({{ site.url }}{{ site.baseurl }}/assets/P1010345.JPG)
 
 Voici une photo de l'avion que j'ai pris.
 
-![avion par la fenêtre]({{ site.url }}/{{  site.baseurl }}/assets/IMG_0052.JPG)
+![avion par la fenêtre]({{ site.url }}{{  site.baseurl }}/assets/IMG_0052.JPG)
 
 Je monte dans l'avion.
 
-![dans l'avion]({{ site.url }}/{{ site.baseurl }}/assets/IMG_0054.JPG)
+![dans l'avion]({{ site.url }}{{ site.baseurl }}/assets/IMG_0054.JPG)
 
 Je fais 12h de vol.
 
-![tracé du vol]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3347.JPG)
+![tracé du vol]({{ site.url }}{{ site.baseurl }}/assets/IMG_3347.JPG)
 
 
 Après avoir fait faire ma carte de résident, je me suis dirigé vers Yokohama où se trouve ma résidence partagée. C'est à environ 40min de l'aéroport de Haneda, lui-même au Sud de Tokyo.
@@ -47,25 +47,25 @@ Dans cette résidence, il y a 4 étages, je suis au 3ème. Il y a une cuisine ai
 
 Voici donc le couloir principal qui fait un coude. Au niveau du coude (au fond à gauche sur la première photo) se trouve la porte d'entrée. Sur la deuxième photo vous avez la vue depuis le mini couloir qui donne sur ma chambre.
 
-![photo intérieur 1]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3365.JPG)
+![photo intérieur 1]({{ site.url }}{{ site.baseurl }}/assets/IMG_3365.JPG)
 
-![photo intérieur 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3366.JPG)
+![photo intérieur 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3366.JPG)
 
 Ensuite voici l'espace lavabo puis douche. Vous remarquerez peut-être qu'il y a une sorte de petit tabouret que vous pouvez déployer pour vous asseoir sous la douche. Chaque chambre a son panier numéroté aussi bien au lavabo que dans le petit meuble dans l'espace douche.
 
-![moi qui me brosse les dents]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3363.JPG)
+![moi qui me brosse les dents]({{ site.url }}{{ site.baseurl }}/assets/IMG_3363.JPG)
 
-![la douche]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3362.JPG)
+![la douche]({{ site.url }}{{ site.baseurl }}/assets/IMG_3362.JPG)
 
-![la douche 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3360.JPG)
+![la douche 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3360.JPG)
 
 L'installation à été plus "compliquée" que prévu car j'ai dû m'acheter le jour même des draps et couverture. Un problème est que la porte fenêtre donnant sur le balcon n'est pas hyper isolée, il fait donc vite un peu frais dans la chambre... je me console en me disant que dans quelques mois ce sera très agréable.
 
 Voici donc ma chambre.
 
-![ma chambre 1]({{ site.url }}/{{ site.baseurl }}/assets/P1010346.JPG)
+![ma chambre 1]({{ site.url }}{{ site.baseurl }}/assets/P1010346.JPG)
 
-![ma chambre 2]({{ site.url }}/{{ site.baseurl }}/assets/P1010347.JPG)
+![ma chambre 2]({{ site.url }}{{ site.baseurl }}/assets/P1010347.JPG)
 
 Je ne me suis pas couché trop tard car je travaillais le lendemain...
 

@@ -16,35 +16,35 @@ J’aime beaucoup aller dans les librairies et tout ce qui a attrait à la papet
 
 Tout d’abord quelques photos prises dans les librairies/papeteries. Le choix est monstrueux ; les Japonais sont notamment très friands de magazines.
 
-![dans la librairie]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3420.JPG)
+![dans la librairie]({{ site.url }}{{ site.baseurl }}/assets/IMG_3420.JPG)
 
-![les romans sur les étagères]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3421.JPG)
+![les romans sur les étagères]({{ site.url }}{{ site.baseurl }}/assets/IMG_3421.JPG)
 
-![les magazines sur l'informatique]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3422.JPG)
+![les magazines sur l'informatique]({{ site.url }}{{ site.baseurl }}/assets/IMG_3422.JPG)
 
-![le rayon papeterie]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3427.JPG)
+![le rayon papeterie]({{ site.url }}{{ site.baseurl }}/assets/IMG_3427.JPG)
 
-![le rayon manga]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3429.JPG)
+![le rayon manga]({{ site.url }}{{ site.baseurl }}/assets/IMG_3429.JPG)
 
-![les livres sur le jeu de go]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3524.JPG)
+![les livres sur le jeu de go]({{ site.url }}{{ site.baseurl }}/assets/IMG_3524.JPG)
 
-![les goodies rilakkuma]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3614.JPG)
+![les goodies rilakkuma]({{ site.url }}{{ site.baseurl }}/assets/IMG_3614.JPG)
 
-![les goodies rilakumma 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3616.JPG)
+![les goodies rilakumma 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3616.JPG)
 
 Et alors en ce moment (et peut-être même depuis un moment (heureusement que moment est un terme très précis sinon je vous aurait déjà perdu)), ils sont à fond sur star wars !
 
-![étalage star wars]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3520.JPG)
+![étalage star wars]({{ site.url }}{{ site.baseurl }}/assets/IMG_3520.JPG)
 
-![dico star-wars 1]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3458.JPG)
+![dico star-wars 1]({{ site.url }}{{ site.baseurl }}/assets/IMG_3458.JPG)
 
-![dico star-wars 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3459.JPG)
+![dico star-wars 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3459.JPG)
 
-![dico star-wars 3]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3460.JPG)
+![dico star-wars 3]({{ site.url }}{{ site.baseurl }}/assets/IMG_3460.JPG)
 
 Et comme promis l’agrafeuse sans agrafe ! Je le met à la fin de ce premier défilé de photos car c’est un objet que je trouve magique !
 
-![agrafeuse sans agrafes]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3947.JPG)
+![agrafeuse sans agrafes]({{ site.url }}{{ site.baseurl }}/assets/IMG_3947.JPG)
 
 Il existe plusieurs modèles, celui-ci m’a coûté environ 5€ et permet d’agrafer (officiellement) 5 pages (en vrai, si tu insistes tu peux faire un peu plus et ça dépend de la densité du papier). En gros ça créé une encoche en forme de flèche qui est repliée vers l’arrière dans une fente. C’est difficile à comprendre même en ayant l’objet dans la main, donc encore plus à expliquer… Une sorte de métaphore de principe pourrait être la machine à coudre, j’espère que cela éclairera certains.
 
@@ -52,33 +52,33 @@ Il existe plusieurs modèles, celui-ci m’a coûté environ 5€ et permet d’
 
 Passons rapidement au transports, je ne vais pas trop en parler tout de suite j’espère pouvoir faire un article dédié. Je vous donne cependant quelques photos en guise d’apéritif.
 
-![intérieur d'un taxi]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3937.JPG)
+![intérieur d'un taxi]({{ site.url }}{{ site.baseurl }}/assets/IMG_3937.JPG)
 
-![file d'attente bus]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3791.JPG)
+![file d'attente bus]({{ site.url }}{{ site.baseurl }}/assets/IMG_3791.JPG)
 
-![quai du train]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3790.JPG)
+![quai du train]({{ site.url }}{{ site.baseurl }}/assets/IMG_3790.JPG)
 
-![surprise]({{ site.url }}/{{ site.baseurl }}/assets/P1010456.JPG)
+![surprise]({{ site.url }}{{ site.baseurl }}/assets/P1010456.JPG)
 
 Bah quoi ? … c’est un moyen de transport  :smiley:
 
-![dormeur dans un train]({{ site.url }}/{{ site.baseurl }}/assets/IMG_4354.JPG)
+![dormeur dans un train]({{ site.url }}{{ site.baseurl }}/assets/IMG_4354.JPG)
 
-![poignées dans le train]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3410.JPG)
+![poignées dans le train]({{ site.url }}{{ site.baseurl }}/assets/IMG_3410.JPG)
 
-![alignés sur le quai du train]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3400.JPG)
+![alignés sur le quai du train]({{ site.url }}{{ site.baseurl }}/assets/IMG_3400.JPG)
 
-![le quai bondé]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3399.JPG)
+![le quai bondé]({{ site.url }}{{ site.baseurl }}/assets/IMG_3399.JPG)
 
 J’aime bien être « surpris » par la diversité des escalators, pour l’instant dans ma collection il n’y en a que trois, mais je reste attentif et vous ferais part si je trouve d’autre escalators :wink:
 
-![escalator 1]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3546.JPG)
+![escalator 1]({{ site.url }}{{ site.baseurl }}/assets/IMG_3546.JPG)
 
-![escalator 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3817.JPG)
+![escalator 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3817.JPG)
 
-![escalator 3]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3818.JPG)
+![escalator 3]({{ site.url }}{{ site.baseurl }}/assets/IMG_3818.JPG)
 
-![escalator 4]({{ site.url }}/{{ site.baseurl }}/assets/P1040242.JPG)
+![escalator 4]({{ site.url }}{{ site.baseurl }}/assets/P1040242.JPG)
 
 Ça fait quand même un peu bizarre de ne pas voir la fin de l’escalator quand on se trouve dessus…
 
@@ -86,55 +86,55 @@ J’aime bien être « surpris » par la diversité des escalators, pour l’ins
 
 Parce que ça fait du bien de voir un peu de fran…ponais
 
-![franponais 1]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3545.JPG)
+![franponais 1]({{ site.url }}{{ site.baseurl }}/assets/IMG_3545.JPG)
 
-![franponais 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3542.JPG)
+![franponais 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3542.JPG)
 
 Dans ce même centre commercial
 
-![centre commercial sakuragichou]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3539.JPG)
+![centre commercial sakuragichou]({{ site.url }}{{ site.baseurl }}/assets/IMG_3539.JPG)
 
 … je suis allé au pokémon center et au jump shop
 
-![pokemon center]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3540.JPG)
+![pokemon center]({{ site.url }}{{ site.baseurl }}/assets/IMG_3540.JPG)
 
-![jump shop]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3541.JPG)
+![jump shop]({{ site.url }}{{ site.baseurl }}/assets/IMG_3541.JPG)
 
 Les photos étaient interdites à l’intérieur du magasin (tout comme dans certains restaurants). Mais je peux vous montrer ce que j’ai acheté :smiley:
 
-![mes achats]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3552.JPG)
+![mes achats]({{ site.url }}{{ site.baseurl }}/assets/IMG_3552.JPG)
 
 La pochette pas hyper belle en haut à gauche était offerte gratuitement, je tiens à le préciser. Et j’ai donc aussi acheté des post-it, un cache-clé (pas sûr du nom) et un porte-carte. Le porte-carte est quasiment indispensable au Japon, les « IC card » à Tokyo et ses environs sont appelés Suica ou Pasmo, mais je vous en parlerais dans un autre article. En gros retenez que c’est pratique de l’avoir à porté de main car avec, vous pouvez payer dans pas mal de magasins, les transports en commun, la caféteria du RIKEN, … C’est une carte rechargeable via des bornes. Enfin bref, voilà ce qu’il y a dans la poche gauche de mon pantalon
 
-![dans ma poche gauche]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3554.JPG)
+![dans ma poche gauche]({{ site.url }}{{ site.baseurl }}/assets/IMG_3554.JPG)
 
 Ce centre commercial se trouve pas très loin de la station centrale de Yokohama, au pied de la Landmark Tower que voici
 
-![landmark tower]({{ site.url }}/{{ site.baseurl }}/assets/P1010361.JPG)
+![landmark tower]({{ site.url }}{{ site.baseurl }}/assets/P1010361.JPG)
 
 Je trouve qu’elle est digne des décors d’un film Star Wars :)
 
 Mais je vous présente aussi l’environnement dans lequel elle est installée (pour les curieux, la station de train la plus proche est Sakuragicho ; littéralement « le quartier de l’arbre cerisier » ?)
 
-![landmark tower 2]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3550.JPG)
+![landmark tower 2]({{ site.url }}{{ site.baseurl }}/assets/IMG_3550.JPG)
 
-![nippon maru]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3548.JPG)
+![nippon maru]({{ site.url }}{{ site.baseurl }}/assets/IMG_3548.JPG)
 
-![sakuragichou]({{ site.url }}/{{ site.baseurl }}/assets/P1010351.JPG)
+![sakuragichou]({{ site.url }}{{ site.baseurl }}/assets/P1010351.JPG)
 
-![cosmoclock21]({{ site.url }}/{{ site.baseurl }}/assets/P1010350.JPG)
+![cosmoclock21]({{ site.url }}{{ site.baseurl }}/assets/P1010350.JPG)
 
-![world porters]({{ site.url }}/{{ site.baseurl }}/assets/P1010349.JPG)
+![world porters]({{ site.url }}{{ site.baseurl }}/assets/P1010349.JPG)
 
 Avec le mini parc d’attraction
 
-![parc d'attraction 1]({{ site.url }}/{{ site.baseurl }}/assets/P1010360.JPG)
+![parc d'attraction 1]({{ site.url }}{{ site.baseurl }}/assets/P1010360.JPG)
 
-![parc d'attraction 2]({{ site.url }}/{{ site.baseurl }}/assets/P1010354.JPG)
+![parc d'attraction 2]({{ site.url }}{{ site.baseurl }}/assets/P1010354.JPG)
 
 Et juste pour vous frustrer autant que moi, voici la photo ratée d’une voiture qui avait des néons partout, mais que j’ai vu au dernier moment donc la photo est un flou artistique… Mais elle était vraiment impressionnante. Il y a au Japon toute sorte de moto, scooter ou voiture qui sortent de l’ordinaire.
 
-![voiture floue]({{ site.url }}/{{ site.baseurl }}/assets/P1010365.JPG)
+![voiture floue]({{ site.url }}{{ site.baseurl }}/assets/P1010365.JPG)
 
 J’ai commencé la rédaction de cet article le 9 mars à 17h27… on est le 30 mars il est 21h11… je met vraiment beaucoup de temps à publier. Il y a plusieurs raison à cela.
 
@@ -152,6 +152,6 @@ Je me suis demandé ce que j’étais venu chercher au Japon, je ne suis certain
 
 Je suis souvent super content parce que je suis quand même à Tokyo … à Tokyo, la ville aux 13 millions d’habitants intra-muros, 42 millions dans l’agglomération (merci wikipedia), une ville qui ne dort jamais, où fourmille pleins de vies différentes qui se croisent sans forcément se regarder. Une ville où l’on peut aller plusieurs fois au même endroit et ne jamais ressentir la même chose. Une ville qui déjà en 2015, possédait 694 gratte-ciels. Une ville où se mêle tradition et modernisme, on y trouve de tout, pour tous les goûts, quelque soit votre personnalité, je pense que quelque part vous pourriez y trouver votre compte, de quoi nourrir votre esprit… C’est un peu étourdissant, il y a tant de choses à faire, à voir, à découvrir… Tokyo c’est chouette.
 
-Mais y vivre vraiment, trouver un espace où planter ses racines, étendre ses branches vers d’autres arbres peut être plus compliqué tant le soleil est caché au sein de cette forêt d’individus…
+Mais y vivre vraiment, trouver un espace où planter ses racines, étendre ses branches vers d’autres arbres peut être plus compliqué tant le soleil est caché par cette forêt d’individus…
 
 J’en suis venu à penser qu’au final, ce qui est important ce n’est pas l’endroit, c’est les gens. Si un étranger souhaite vivre ici sans se retrouver caché et noyé par la masse, il est mieux d’avoir de solides attaches avec des autochtones (cherchez pas j’avais juste envie d’utiliser ce mot), d’avoir un tissus de relations profondes, de vrais amis que l’on peut voir régulièrement. Mais j’imagine que c’est partout pareil…

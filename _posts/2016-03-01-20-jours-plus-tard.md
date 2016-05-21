@@ -20,20 +20,20 @@ Finalement les jours suivants, j'ai pu ouvrir un compte dans une banque en ligne
 Mais mes dernières semaines ne se résument pas à ça ! J'ai fait plein de sorties. Notamment une soirée au restaurant avec les collègues de la division. Pour votre curiosité, nous sommes environ 140 dans la division et il y a 30% d'étrangers.
 Connaissez-vous les okonomiyaki ? Ce sont des sortes de galettes de chou, de pâtes, de viande, de crevettes, ... il peut y avoir plusieurs choses diverses dedans. Ces galettes sont recouvertes de sauce okonomiyaki et de mayonnaise (les japonais sont fous de mayonnaise). On met enfin de la bonite séchée et râpée, que j'appelle "poisson qui danse", vous comprendrez dans la vidéo qui suit (pas encore intégrée au blog).
 
-![okonomiyaki qui cuit]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3483.JPG)
+![okonomiyaki qui cuit]({{ site.url }}{{ site.baseurl }}/assets/IMG_3483.JPG)
 
-![okonomiyaki dans l'assiette]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3487.JPG)
+![okonomiyaki dans l'assiette]({{ site.url }}{{ site.baseurl }}/assets/IMG_3487.JPG)
 
 Ensuite nous sommes allés au karaoké, quoi de plus normal au Japon...
 
 Enfin nous avons terminé au bar. On n'en a pas pris mais ils y servaient des huîtres et autres fruits de mer. On avait tout de même quelques algues pour accompagner notre saké !
 
-![plaque du bar good fellows]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3509.JPG)
+![plaque du bar good fellows]({{ site.url }}{{ site.baseurl }}/assets/IMG_3509.JPG)
 
-![les algues qui accompagnent le sake]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3508.JPG)
+![les algues qui accompagnent le sake]({{ site.url }}{{ site.baseurl }}/assets/IMG_3508.JPG)
 
-![verre de sake]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3506.JPG)
+![verre de sake]({{ site.url }}{{ site.baseurl }}/assets/IMG_3506.JPG)
 
-![l'ardoise des menus]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3505.JPG)
+![l'ardoise des menus]({{ site.url }}{{ site.baseurl }}/assets/IMG_3505.JPG)
 
-![le bar good fellows]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3503.JPG)
+![le bar good fellows]({{ site.url }}{{ site.baseurl }}/assets/IMG_3503.JPG)

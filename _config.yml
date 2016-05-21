@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://shamansim.github.io"
+url: ""
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -113,6 +113,12 @@ excerpt_separator: <!--more-->
 ############
 
 events:
+  - image: "/img/timeline/default.png"
+    date: "Dimanche 17 avril 2016"
+    description: "Visite de Kamakura (temples et plage)"
+  - image: "/img/timelime/default.png"
+    date: "Samedi 16 avril 2016"
+    description: "Yabusame (tir à l'arc à cheval) au parc Sumida, fin d'après-midi à Asakusa et soirée à Akihabara"
   - image: "/img/timeline/hamarikyu.JPG"
     date: "Dimanche 10 avril 2016"
     description: "Shimbashi et Hamarikyu gardens"

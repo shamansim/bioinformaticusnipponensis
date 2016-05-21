@@ -20,20 +20,20 @@ Une fois les wagons bien arrimés, nous nous sommes tous dirigé à la queue-leu
 
 Une fois les encouragements d'usage, nous sommes allé dans une première salle ou nous attendait une autre personne. On nous a alors remis un classeur à pochettes transparentes au format A4 remplis de documents divers, classés selon plusieurs thèmes. Nous avons aussi eu un set de post-it ainsi que deux stylos bille. Le contenu global nous a été présenté puis nous avons fourni les documents manquants, ou les signatures manquantes. Des photos ont été faites pour certains.
 
-![mes stylos]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3382.JPG)
+![mes stylos]({{ site.url }}{{ site.baseurl }}/assets/IMG_3382.JPG)
 
 Pendant que notre encadrante était partie faire des photocopies, nous avons eu notre premier contact en tant que nouveaux venus dans ce centre de recherche. La diversité des nationalités est grande (Inde, Japon, Angleterre, Italie et moi France).  Grande est aussi la diversité des postes (technicien, post-doctorant, stagiaire, ...). Une fois l'assistante revenue, j'ai reçu mon HANKO qui allait m'être bien utile pour ce séjour. Ce tampon sert de signature au Japon. Nous sommes ensuite allés dans une autre salle de réunion équipée d'un vidéo-projecteur. Là nous a été présenté plus en détail les différents documents que nous avions dans le classeur, chaque thème étant représenté par son responsable ; nous avons eu plusieurs présentations.
 
 Nous avons ensuite été invité à rejoindre nos bureaux respectifs. Globalement, le long couloir est composé de vingt à trente salles environ, avec à chaque fois un laboratoire ou un open-space d'une capacité de vingt personnes environ. Mon bureau est dans un carré de quatre. Mon ordinateur, pré-configuré m'attendait dans sa boîte, un MacBook Air i7 avec toutes les connectiques nécessaires. J'ai attendu un moment que mon superviseur me rejoigne.
 
-![message de bienvenue]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3370.JPG)
-![mon ordi]({{ site.url }}/{{ site.baseurl }}/assets/IMG_3374.JPG)
+![message de bienvenue]({{ site.url }}{{ site.baseurl }}/assets/IMG_3370.JPG)
+![mon ordi]({{ site.url }}{{ site.baseurl }}/assets/IMG_3374.JPG)
 
 Une fois arrivé, le formalisme auquel j'avais eu droit jusqu'à présent s'est relâché : mon superviseur parle Français. Il m'a fait visiter plusieurs bâtiments du campus. C'était très instructif, ils ont d'immenses salles remplies de séquenceurs ADN, un couloir-musée, des labos P2, un P3...
 
 Nous avons mangé en équipe, et entre amis et collègues, dans le grand "self" du campus. Puis en groupe restreint nous sommes allé au café du campus pour discuter des premiers préparatifs pour le stage.
 
-![mon repas au RIKEN]({{ site.url }}/{{ site.baseurl }}/assets/food_20160201_2.jpg)
+![mon repas au RIKEN]({{ site.url }}{{ site.baseurl }}/assets/food_20160201_2.jpg)
 
 Nous sommes ensuite remonté à l'étage des bureaux et nous avons longuement discuté à propos du contenu de mon stage et de sa mise en place.
 
@@ -43,11 +43,11 @@ Pour rentrer j'ai pris le bus avec une des personnes qui me supervise, l'ambianc
 
 Avant de rentrer chez moi, je suis allé dans le magasin AEON (il y en a plein au Japon) pour m'acheter à manger pour le dîner (je n'ai pas de photo mais c'est un peu banal : du riz et des "croquettes" de poisson. Au pire vous en verrez un peu plus tard, j'aime bien ça). Je me suis aussi acheté un petit radiateur à 2000yens(15euros) (qui est super efficace).
 
-![radiateur]({{ site.url }}/{{ site.baseurl }}/assets/radiateur.JPG)
+![radiateur]({{ site.url }}{{ site.baseurl }}/assets/radiateur.JPG)
 
 Après être rentré chez moi, j'ai reçu un cadeau d'une amie (que je remercie encore si elle me lit !!). Il s'agit d'une couverture chauffante ! Je n'en avait jamais vu avant ! Ça ne prend vraiment pas de place du tout, c'est très fin et ça tient bien chaud. C'est super doux et souple et on peut régler très sensiblement l'intensité de la chaleur. Elle l'a acheté hier soir à 21h et la couverture est arrivée ce soir à 20h. Le Japon est un des pays où Amazon est le plus efficace.
 
-![couverture chauffante]({{ site.url }}/{{ site.baseurl }}/assets/electricBlanket.JPG)
+![couverture chauffante]({{ site.url }}{{ site.baseurl }}/assets/electricBlanket.JPG)
 
  Mes écouteurs audio m'ont lâché pendant l'écriture de ce billet... ça me fera une excuse pour rapidement faire un tour à Yokohama. Je suis à 10min en train, ce n'est pas loin.
 
